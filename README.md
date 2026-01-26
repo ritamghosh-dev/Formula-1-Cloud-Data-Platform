@@ -1,4 +1,4 @@
-# Formula-1-Cloud-Data-Platform
+# Formula-1-Cloud-Data-Platform 
 
 ## Solution Architechture of platform:
 
